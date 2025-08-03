@@ -41,21 +41,14 @@ author: Sankzy
 #   "Copyright © 2017-2021 Foobar"
 #
 
-copyright: "published Work (cleft) {currentYear} {author}"
+copyright: "published Work (cleft) 2025-{currentYear} {author}"
 
-description: >-
-  This is my professional portfolio website, showcasing my expertise in front-end development, data management, project coordination, and technical problem-solving. Explore my experience, key skills, and notable projects that highlight my commitment to driving efficiency and innovation.
+description: >- # this means to ignore newlines until "baseurl:"
+This is my professional portfolio website, showcasing my expertise in front-end development, data management, project coordination, and technical problem-solving. Explore my experience, key skills, and notable projects that highlight my commitment to driving efficiency and innovation.
+
 baseurl: "/blog"
-url: "https://sankzy.github.io/"
-
-#copyright: "published Work (cleft) 2025-{currentYear} {author}"
-
-#description: >- # this means to ignore newlines until "baseurl:"
-#This is my professional portfolio website, showcasing my expertise in front-end development, data management, project coordination, and technical problem-solving. Explore my experience, key skills, and notable projects that highlight my commitment to driving efficiency and innovation.
-
-#baseurl: "/blog"
 # the subpath of your site, e.g. /blog
-#url: "https://sankzy.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sankzy.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
