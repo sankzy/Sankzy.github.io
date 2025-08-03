@@ -41,14 +41,13 @@ author: Sankzy
 #   "Copyright © 2017-2021 Foobar"
 #
 
-copyright: "published Work (cleft) 2025-{currentYear} {author}"
-
+copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 description: >- # this means to ignore newlines until "baseurl:"
-This is my professional portfolio website, showcasing my expertise in front-end development, data management, project coordination, and technical problem-solving. Explore my experience, key skills, and notable projects that highlight my commitment to driving efficiency and innovation.
-
-baseurl: "/blog"
-# the subpath of your site, e.g. /blog
-url: "https://sankzy.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
